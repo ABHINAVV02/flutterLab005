@@ -105,7 +105,6 @@ class _CalculatorState extends State<Calculator> {
             const SizedBox(height: 15),
             TextField(
               controller: op,
-              textAlign: TextAlign.center,
               decoration: const InputDecoration(
                 labelText: "Operator",
                 border: OutlineInputBorder(),
