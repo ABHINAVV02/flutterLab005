@@ -20,3 +20,4 @@ A functional arithmetic calculator that accepts two numbers and an operator (`+`
 - Division by Zero: 10 / 0 → Error alert
 - Invalid Input: abc + 5 → Validation alert
   ![alt text](output.PNG)
+  ![alt text](image.png)
